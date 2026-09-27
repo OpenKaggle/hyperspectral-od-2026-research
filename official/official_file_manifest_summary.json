@@ -1,0 +1,16 @@
+{
+  "bytes_by_stage": {
+    "metadata": 1390,
+    "test": 3922139635,
+    "train": 11731282933
+  },
+  "competition": "hyperspectral-object-detection-challenge-2026",
+  "counts_by_stage": {
+    "metadata": 3,
+    "test": 1000,
+    "train": 6000
+  },
+  "file_count": 7003,
+  "ranking_files_present": false,
+  "total_bytes": 15653423958
+}

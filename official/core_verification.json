@@ -1,0 +1,85 @@
+{
+  "classes": [
+    "apple",
+    "apple_plastic",
+    "badminton",
+    "banana",
+    "banana_plastic",
+    "car",
+    "car_toy",
+    "charger_head",
+    "e-bike",
+    "egg",
+    "egg_plastic",
+    "egg_wood",
+    "orange",
+    "orange_plastic",
+    "people",
+    "rubik",
+    "stone_block",
+    "table_tennis"
+  ],
+  "sample_header": [
+    "id",
+    "image_id",
+    "class_id",
+    "confidence",
+    "x1",
+    "y1",
+    "x2",
+    "y2"
+  ],
+  "train_mosaic_shape": [
+    1004,
+    1988
+  ],
+  "train_cube_shape": [
+    251,
+    497,
+    16
+  ],
+  "train_band_min": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    1,
+    3,
+    4,
+    3,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "train_band_max": [
+    244,
+    245,
+    297,
+    233,
+    281,
+    293,
+    231,
+    231,
+    201,
+    193,
+    206,
+    228,
+    202,
+    220,
+    223,
+    299
+  ],
+  "sha256": {
+    "1000.png": "005d9276e695a63e170c710c2713145a6196e0dd47d979619944d16750c88660",
+    "1000.xml": "7a615a97047cc46dc5f86ae9a522f46fae9c3660d299cfc104e1290ad7b6b603",
+    "1009.png": "a3b307bcdf3811f3b84c6b998954bfa9de6920fe0d29e1284bf92d26d4e6a38d",
+    "class.txt": "18a3758dbfb097d0f80d3b22db3c5d87d9720afe65bfa4803c117f43cb854fba",
+    "pseudo_rgb_demo.py": "86e980214bd97c5f8b801748b2f8a3f82b507d088aae9aa48762b6d981620004",
+    "sample_submission.csv": "ecb399387799e6cb81484fa4474f7dda1af04f9614b829763b61ef9734b2e34b"
+  }
+}

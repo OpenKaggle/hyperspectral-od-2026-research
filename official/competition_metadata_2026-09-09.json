@@ -1,0 +1,20 @@
+{
+  "id": 156439,
+  "ref": "https://www.kaggle.com/competitions/hyperspectral-object-detection-challenge-2026",
+  "title": "Hyperspectral Object Detection Challenge 2026",
+  "category": "Community",
+  "reward_api_display": "738 Usd",
+  "official_reward": "5000 RMB",
+  "deadline_utc": "2026-09-24T16:00:00.000Z",
+  "merger_deadline_utc": "2026-09-24T16:00:00.000Z",
+  "new_entrant_deadline_utc": null,
+  "enabled_utc": "2026-07-20T07:14:37.057Z",
+  "max_daily_submissions": 3,
+  "max_team_size": 5,
+  "evaluation_metric": "COCO mAP@[0.5:0.95] for object detection",
+  "awards_points": false,
+  "is_kernels_submissions_only": false,
+  "submissions_disabled": false,
+  "user_has_entered": true,
+  "team_count_at_receipt": 143
+}
