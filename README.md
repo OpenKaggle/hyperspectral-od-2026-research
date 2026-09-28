@@ -1,4 +1,4 @@
-# Hyperspectral Object Detection Challenge 2026 — research archive
+# [2026-09] Hyperspectral Object Detection Challenge 2026 — research archive
 
 An OpenKaggle source-and-provenance archive for the Kaggle competition:
 

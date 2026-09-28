@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: >-
+  If this research archive supports your work, cite this repository and the
+  official Kaggle competition source separately.
+title: Hyperspectral Object Detection Challenge 2026 Research Archive
+type: software
+authors:
+  - name: Jah-yee
+repository-code: https://github.com/OpenKaggle/hyperspectral-od-2026-research
+url: https://github.com/OpenKaggle/hyperspectral-od-2026-research
+version: snapshot-2026-09
+date-released: 2026-09-28
+abstract: >-
+  OpenKaggle source and provenance archive for the Hyperspectral Object
+  Detection Challenge 2026.
